@@ -1,4 +1,4 @@
-# Hello there!👋 I'm Daniel Briquez
+# I'm Daniel Briquez👋 
 
 ##
 
@@ -6,7 +6,7 @@
 - 🧑‍💻 I'm a Research Intern at IBM in the AI area  
 - 🚀 I like to explore different fields in tech, and my interests vary from time to time! Currently, I'm more focused on Transformer architectures and AI Agent systems  
 - 🛠️ Main Tools: Python, Numpy, Pandas, Langchain, PyTorch, and Docker  
-- 🌟 In my free time, I like to go out with people, explore new places, go to the gym, and I've recently started solving DSA problems!  
+- 🌟 In my free time, I like to go out, explore new places, go to the gym, and I've recently started solving DSA problems!  
 
 ## ✉️ Contact information  
 
