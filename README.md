@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello there!👋 I'm Daniel Briquez
 
-<!--
-**Briqz23/Briqz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+- 🎓 5th-semester Computer Science student at Instituto Mauá de Tecnologia (IMT)  
+- 🧑‍💻 I'm a Research Intern at IBM in the AI area  
+- 🚀 I like to explore different fields in tech, and my interests vary from time to time! Currently, I'm more focused on Transformer architectures and AI Agent systems  
+- 🛠️ Main Tools: Python, Numpy, Pandas, Langchain, PyTorch, and Docker  
+- 🌟 In my free time, I like to go out with people, explore new places, go to the gym, and I've recently started solving DSA problems!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✉️ Contact information  
+
+📧 Email: [danielbriquez2@gmail.com](mailto:danielbriquez2@gmail.com)  
