@@ -1,5 +1,5 @@
-# Hey there! I'm Daniel Briquez👋 
-
+# Hey there! I'm Daniel Briquez👋
+This is my personal account, but I also have a work account where I'm more active
 ##
 
 - 🧑‍💻 I'm a Technical Solutions Consultant at Google 
